@@ -1,0 +1,28 @@
+format: jb-book
+root: project
+title: 3D Printer Basics
+parts:
+- caption: Introduction
+  chapters:
+  - file: Intro/Overview
+- caption: Short History
+  chapters:
+  - file: History/RepRap
+- caption: Workflow
+  chapters:
+  - file: Workflow/WFOverview
+- caption: CAD Options
+  chapters:
+  - file: CADOptions/CADOverview
+- caption: Downloading Files
+  chapters:
+  - file: Download/DownloadExisting
+- caption: Prusa Slicer
+  chapters:
+  - file: Slicer/SlicrOverview
+- caption: Prusa MK4 Printer
+  chapters:
+  - file: Hardware/MK4Overview
+- caption: Printing
+  chapters:
+  - file: Printing/PrintingOverview

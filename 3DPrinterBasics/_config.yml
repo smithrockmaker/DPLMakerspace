@@ -2,10 +2,10 @@
 # in the expected output formats. I suspect this has to do with being slightly behind the most
 # current release of jupyter-book. - Bruce, July 2021
 # Book settings
-title                       : 3D Printers  # The title of the book. Will be placed in the left navbar.
+title                       : DPL Makerspace 3D Printers  # The title of the book. Will be placed in the left navbar.
 author                      : Bruce Emerson  # The author of the book
 copyright                   : "2025"  # Copyright year to be placed in the footer
-logo                        : "ProjectImages/MakerspaceLogo.png"  # A path to the book logo
+logo                        : "ProjectImages/MakerspaceLogoWhite.png"  # A path to the book logo
 # Auto-exclude files not in the toc
 only_build_toc_files        : true
 

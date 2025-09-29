@@ -1,0 +1,36 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 07bc9c40-e51b-4ad7-b348-f34fd9e349fc
+  title: 3D Printers at the Redmond DPL Makerspace
+  description: This is an introductory tutorial for users of the 3D printers at the Makerspace in the Redmond Brancgh of the Deschutes Public Library.
+  license: CC-BY-4.0
+  # keywords: []
+  authors: [Bruce Emerson, Tony Grzesik Jr.]
+  github: https://github.com/smithrockmaker/DPLMakerspace
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+  toc:
+    - file: DPLproject.md
+    - title: Introduction
+      children:
+        - file: Intro/Overview.md
+    - title: Short History
+      children:
+        - file: History/RepRap.md
+    - title: Workflow
+      children:
+        - file: Workflow/WFOverview.md
+    - title: CAD Options
+      children:
+        - file: CADOptions/CADOverview.md
+
+
+# See docs at https://mystmd.org/guide/website-templates#site-options
+site:
+  template: book-theme
+  options:
+      logo: "ProjectImages/MakerspaceLogo.png"  # A path to the book logo
+  #   logo_url: (https://www.deschuteslibrary.org/services/makerspaces/)
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png

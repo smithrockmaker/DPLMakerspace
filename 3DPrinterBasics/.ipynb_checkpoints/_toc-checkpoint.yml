@@ -1,6 +1,6 @@
 format: jb-book
-root: project
-title: 3D Printer Basics
+root: DPLproject
+title: DPL Makerspace 3D Printer Basics
 parts:
 - caption: Introduction
   chapters:
@@ -19,10 +19,13 @@ parts:
   - file: Download/DownloadExisting
 - caption: Prusa Slicer
   chapters:
-  - file: Slicer/SlicrOverview
+  - file: Slicer/SlicerOverview
 - caption: Prusa MK4 Printer
   chapters:
   - file: Hardware/MK4Overview
 - caption: Printing
   chapters:
   - file: Printing/PrintingOverview
+- caption: FAQ
+  chapters:
+  - file: FAQ/GeneralFAQ

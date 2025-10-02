@@ -11,21 +11,24 @@ parts:
 - caption: Workflow
   chapters:
   - file: Workflow/WFOverview
-- caption: CAD Options
+- caption: Design
   chapters:
-  - file: CADOptions/CADOverview
-- caption: Downloading Files
+  - file: Design/CADOverview
+- caption: Download
   chapters:
   - file: Download/DownloadExisting
-- caption: Prusa Slicer
+- caption: Slice
   chapters:
-  - file: Slicer/SlicerOverview
+  - file: Slice/SlicerOverview
 - caption: Prusa MK4 Printer
   chapters:
   - file: Hardware/MK4Overview
 - caption: Printing
   chapters:
   - file: Printing/PrintingOverview
+- caption: Summary
+  chapters:
+  - file: Summary/Summary
 - caption: FAQ
   chapters:
   - file: FAQ/GeneralFAQ

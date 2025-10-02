@@ -20,9 +20,27 @@ project:
     - title: Workflow
       children:
         - file: Workflow/WFOverview.md
-    - title: CAD Options
+    - title: Design
       children:
-        - file: CADOptions/CADOverview.md
+        - file: Design/CADOverview.md
+    - title: Download
+      children:
+        - file: Download/DownloadExisting.md
+    - title: Slice
+      children:
+        - file: Slice/SlicerOverview.md
+    - title: Prusa MK4S Printer
+      children:
+        - file: Hardware/MK4Overview.md
+    - title: Printing
+      children:
+        - file: Printing/PrintingOverview.md
+    - title: Summary
+      children:
+        - file: Summary/Summary.md
+    - title: FAQ
+      children:
+        - file: FAQ/GeneralFAQ.md
 
 
 # See docs at https://mystmd.org/guide/website-templates#site-options

@@ -35,7 +35,10 @@ Scrolling further down there is a section for Reservable Equipment. At this mome
 
 ### High Altitude View
 
-Working with 3D printers is a learning process that never stops for a variety of reasons. For this presentation I want to give a clear sense of the basic processes and skills needed to get started. Once you have a very basic comfort with the process then your skills will grow as you try prints or techni that you hear about or read about on the interwebs. Be curious and you will be delighted to see your skills grow.
+Working with 3D printers is a learning process that never stops for a variety of reasons. For this presentation I want to give a clear sense of the basic processes and skills needed to get started. Once you have a very basic comfort with the process then your skills will grow as you try prints or techni that you hear about or read about on the interwebs. Be curious and you will be delighted to see your skills grow. Because it's only 2 min long (plus the irritating ads) we'll watch this video which is linked at the bottom of the DPL MakerSpace page.
+
+[3D Printing Video](https://www.youtube.com/watch?v=qoBU0r7pT84)
+
 
 With such a general goal for this presentation here is what we're going to touch on.
 

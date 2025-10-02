@@ -10,6 +10,8 @@ This guide is primarily intended to serve the patrons of the Deschutes Public Li
 
 This guide is being created in [jupyter{book}](https://jupyterbook.org/en/stable/intro.html). This creates a book like object which can be displayed as a web page or exported as a pdf document and is relatively easy to update and keep track of. A link to the current pdf of the guide can be found [here]()
 
+**NOTE:** I feel like it is important to note that this presentation is meant to be a guide to the overall 3D peinting process. **THIS IS NOT A TUTORIAL:)** I will link various resources that are useful tutorials based on our (the authors) experiences. There will be many more that you can find independently if you wish.
+
 ### Creative Commons:
 
 I am deeply attached to the open source movement so you will not be surprised that this work is licensed under the CC Atribution-ShareAlike 4.0 International License. I well endeavor to be sure that I have your explicit permission to share any content you contribute to this book.
